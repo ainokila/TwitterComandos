@@ -2,7 +2,7 @@
 Aplicacion para manejar tu Ordenador mediante Tweets. 
 
 Lo unico necesario es crear un nueva aplicacion para tu usuario de Twitter en 
-https://dev.twitter.com/overview/documentation y rellenar los 5 campos del main:
+https://dev.twitter.com/overview/documentation , en el apartado Manage My Apps  y rellenar los 5 campos del main:
 
       consumerKey = "";
       consumerSecret = "";
