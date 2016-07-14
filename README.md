@@ -24,7 +24,7 @@ Algunos ejemplo de las ejecuciones :
   
   Tweets : https://twitter.com/CristianVeRu/status/753353333436473345
 
-Tambien se pueden lanzar aplicaciones , sin necesidad de que estas generen una salida como puede ser lanzar calculadora o apagar el equipo mediante comandos.
+Tambien se pueden lanzar aplicaciones , sin necesidad de que estas generen una salida como puede ser lanzar cualquier tipo de Sripts independientemente de la plataforma o programar al equipo diversas acciones.
 
 Advertencia : Para lanzar algunas aplicaciones se debe poner su ruta absoluta.
 
